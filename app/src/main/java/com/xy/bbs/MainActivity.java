@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         Toast.makeText(this,"xxr",Toast.LENGTH_SHORT).show();
         Toast.makeText(this,"这是许夏荣另一个号的测试代码",Toast.LENGTH_SHORT).show();
+
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
