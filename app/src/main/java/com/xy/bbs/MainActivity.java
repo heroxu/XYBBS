@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        Toast.makeText(this,"xxr",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"a",Toast.LENGTH_SHORT).show();
         Toast.makeText(this,"这是许夏荣另一个号的测试代码",Toast.LENGTH_SHORT).show();
 
 
