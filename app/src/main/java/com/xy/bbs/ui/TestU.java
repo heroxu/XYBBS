@@ -7,4 +7,8 @@ package com.xy.bbs.ui;
 public class TestU {
 
 
+    public static void main(String[] args) {
+
+
+    }
 }
